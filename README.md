@@ -1,2 +1,2 @@
-# TIFC2DEV-AD-13
-TIFC2DEV-AD-13: Laboratorio: Uso de Componentes Bootstrap
+# ad-l7
+AD-13-1 Using more Bootstrap- Individual
